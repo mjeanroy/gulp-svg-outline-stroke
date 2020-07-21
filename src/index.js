@@ -43,7 +43,7 @@ module.exports = function gulpSvgOutlineStroke(options = {}) {
 };
 
 /**
- * Add header to given file content.
+ * Update SVG content.
  *
  * @param {Object} file SVG file.
  * @param {Object} options Transform options.
@@ -62,7 +62,7 @@ function updateFileContent(file, options, cb) {
 }
 
 /**
- * A very simple function that prepend header to file stream input.
+ * A very simple function that transform SVG stream.
  *
  * @param {File} file The original file stream.
  * @param {Object} options Transform options.

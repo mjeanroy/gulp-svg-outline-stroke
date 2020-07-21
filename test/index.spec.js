@@ -68,7 +68,7 @@ describe('gulp-svg-outline-stroke', () => {
     stream.end();
   });
 
-  it('should prepend header with buffer content', (done) => {
+  it('should process svg with buffer content', (done) => {
     const filePath = path.join(base, 'svg1.svg');
     const svgInput = fs.readFileSync(filePath, 'utf-8');
 
@@ -103,7 +103,7 @@ describe('gulp-svg-outline-stroke', () => {
     stream.end();
   });
 
-  it('should prepend header with stream content', (done) => {
+  it('should process svg with stream content', (done) => {
     const filePath = path.join(base, 'svg1.svg');
     const svgInput = fs.readFileSync(filePath, 'utf-8');
 
