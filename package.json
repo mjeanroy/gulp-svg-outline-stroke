@@ -1,6 +1,6 @@
 {
   "name": "gulp-svg-outline-stroke",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Gulp wrapper for svg-outline-stroke package",
   "main": "dist/index.js",
   "scripts": {
