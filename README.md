@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/mjeanroy/gulp-svg-outline-stroke.svg?branch=master)](https://travis-ci.org/mjeanroy/gulp-svg-outline-stroke)
 [![Npm version](https://badge.fury.io/js/gulp-svg-outline-stroke.svg)](https://badge.fury.io/js/gulp-svg-outline-stroke)
 
-gulp-svg-outline-stroke is a [Gulp](https://github.com/gulpjs/gulp) extension for [https://www.npmjs.com/package/gulp-svg-outline-stroke](svg-outline-stroke).
+gulp-svg-outline-stroke is a [Gulp](https://github.com/gulpjs/gulp) extension for [svg-outline-stroke](https://www.npmjs.com/package/svg-outline-stroke].
 
 ## Install
 
