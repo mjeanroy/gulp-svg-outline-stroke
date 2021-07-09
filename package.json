@@ -28,7 +28,7 @@
     "url": "git://github.com/mjeanroy/gulp-svg-outline-stroke.git"
   },
   "dependencies": {
-    "svg-outline-stroke": "1.3.0",
+    "svg-outline-stroke": "1.3.1",
     "through2": "4.0.2"
   },
   "devDependencies": {
