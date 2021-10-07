@@ -32,7 +32,7 @@
     "through2": "4.0.2"
   },
   "devDependencies": {
-    "@babel/core": "7.15.5",
+    "@babel/core": "7.15.8",
     "@babel/preset-env": "7.15.6",
     "@babel/register": "7.15.3",
     "eslint": "7.32.0",
