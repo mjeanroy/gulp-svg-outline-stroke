@@ -35,6 +35,7 @@
 /.gitattributes
 /.github
 /.idea
+/.npmrc
 /.nvmrc
 /.travis.yml
 /.vscode
