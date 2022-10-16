@@ -22,9 +22,10 @@
 # THE SOFTWARE.
 ##
 
-# VSCode
+# IDE
 /.vscode
-
+/.idea
+*.iml
 # Build files
 /dist
 
