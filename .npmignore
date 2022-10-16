@@ -34,10 +34,12 @@
 /.eslintignore
 /.gitattributes
 /.github
+/.idea
 /.nvmrc
 /.travis.yml
 /.vscode
 /gulpfile.js
+/*.iml
 
 # Logs
 *.log
